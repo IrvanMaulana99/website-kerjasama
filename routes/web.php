@@ -49,7 +49,7 @@ Route::get('/layananpublik', [MonitoringController::class, 'showLayananpublik'])
 //tkksd
 Route::get('/tkksd', [TkksdController::class, 'showTkksd'])->name('tkksd');
 // Route::get('/tkksd-award', 'TkksdController@showTkksdAward')->name('tkksd');
-Route::get('/tkksd-award', [TkksdController::class, 'showTkksd-award'])->name('tkksd-award');
+Route::get('/tkksd-award', [TkksdController::class, 'showTkksdaward'])->name('tkksd-award');
 Route::get('/kaledoiskop', [TkksdController::class, 'showKaledoiskop'])->name('kaledoiskop');
 //berita
 Route::get('/berita', [BeritaController::class, 'showBerita'])->name('berita');

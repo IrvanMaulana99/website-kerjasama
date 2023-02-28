@@ -212,10 +212,16 @@
                 <li class="nav-item dropdown">
                   <a
                     class="nav-link dropdown-toggle"
-                    href="{{ route('tkksd') }}"
+                    href=""
                     data-bs-toggle="dropdown"
                     >TKKSD</a
                   >
+                  <ul class="dropdown-menu">
+                    <li class="nav-item">
+                      <a class="dropdown-item" href="{{ route('tkksd') }}"
+                        >TKKSD</a
+                      >
+                    </li>
                   <ul class="dropdown-menu">
                     <li class="nav-item">
                       <a class="dropdown-item" href="{{ route('tkksd-award') }}"

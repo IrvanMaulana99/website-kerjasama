@@ -54,49 +54,42 @@
             <div class="col">
               <img
                 class="img-fluid px-md-3 px-lg-0 px-xl-2 px-xxl-5"
-                src="frontend/img/brands/c1.png"
+                src="frontend/img/mitra/ADB 1.png"
                 alt=""
               />
             </div>
             <div class="col">
               <img
                 class="img-fluid px-md-3 px-lg-0 px-xl-2 px-xxl-5"
-                src="frontend/img/brands/c2.png"
+                src="frontend/img/mitra/Bloomberg 1.png"
                 alt=""
               />
             </div>
             <div class="col">
               <img
                 class="img-fluid px-md-3 px-lg-0 px-xl-2 px-xxl-5"
-                src="frontend/img/brands/c3.png"
+                src="frontend/img/mitra/CityNet 1.png"
                 alt=""
               />
             </div>
             <div class="col">
               <img
                 class="img-fluid px-md-3 px-lg-0 px-xl-2 px-xxl-5"
-                src="frontend/img/brands/c4.png"
+                src="frontend/img/mitra/JHPIEGO 1.png"
                 alt=""
               />
             </div>
             <div class="col">
               <img
                 class="img-fluid px-md-3 px-lg-0 px-xl-2 px-xxl-5"
-                src="frontend/img/brands/c5.png"
+                src="frontend/img/mitra/MUFPP 1.png"
                 alt=""
               />
             </div>
             <div class="col">
               <img
                 class="img-fluid px-md-3 px-lg-0 px-xl-2 px-xxl-5"
-                src="frontend/img/brands/c6.png"
-                alt=""
-              />
-            </div>
-            <div class="col">
-              <img
-                class="img-fluid px-md-3 px-lg-0 px-xl-2 px-xxl-5"
-                src="frontend/img/brands/c7.png"
+                src="frontend/img/mitra/UCLG 1.png"
                 alt=""
               />
             </div>
